@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListEx/ArrayListEx.iml" filepath="$PROJECT_DIR$/ArrayListEx/ArrayListEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StacksQueues/StacksQueues.iml" filepath="$PROJECT_DIR$/StacksQueues/StacksQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListsEx/LinkedListsEx.iml" filepath="$PROJECT_DIR$/LinkedListsEx/LinkedListsEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-and-algorithms.iml" filepath="$PROJECT_DIR$/data-and-algorithms.iml" />
     </modules>
   </component>

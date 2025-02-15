@@ -19,7 +19,8 @@ public class TextEditorUndo {
         if (top == stack.length - 1) {
             System.out.println("Stack is full.");
         } else {
-            stack[top++] = action;
+            top++;
+            stack[top] = action;
             System.out.println(action + " has been added.");
         }
     }
@@ -37,8 +38,6 @@ public class TextEditorUndo {
             System.out.println("Popped element: "+poppedValue);
             return poppedValue;
         }
-
-
     }
     // Method to view the most recent action in the stack without removing it
     public String peek() {
