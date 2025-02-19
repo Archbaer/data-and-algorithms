@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmsEx/AlgorithmsEx.iml" filepath="$PROJECT_DIR$/AlgorithmsEx/AlgorithmsEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListEx/ArrayListEx.iml" filepath="$PROJECT_DIR$/ArrayListEx/ArrayListEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
